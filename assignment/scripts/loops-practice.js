@@ -23,7 +23,9 @@ for (let i=0; i<6; i++){
 //   - Which part of the example loop do you need to change to do this?
 console.log('count from 3 to 5');
 
-
+for (let i=3; i<6; i++){
+  console.log(i);
+} // - I changed the value of i to equal 3 instead of 0 like in the example, I also changed the i<.. value from i<4 in the example to i<6 in my for loop.
 
 // 1.c. TODO: Write a for loop to console.log EVEN numbers from 2 to 10
 //   - Which part of the example loop do you need to change to do this?
